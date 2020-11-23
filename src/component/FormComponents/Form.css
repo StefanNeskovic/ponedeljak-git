@@ -1,0 +1,28 @@
+.form-div{
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.374);
+    margin: 50px;
+    padding: 50px;
+    color: white;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+button{
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: green;
+    color: white;
+}
+h3{
+    text-align:center;
+}
